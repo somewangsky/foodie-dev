@@ -3,6 +3,9 @@ package com.zxelec.pojo;
 import javax.persistence.*;
 import java.util.Date;
 
+/**
+ * @author vimicro
+ */
 public class Users {
     /**
      * 主键id 用户id

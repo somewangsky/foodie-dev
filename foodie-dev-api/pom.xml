@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>foodie-dev-controller</artifactId>
+    <artifactId>foodie-dev-api</artifactId>
 
     <dependencies>
         <dependency>
